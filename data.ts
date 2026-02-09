@@ -7,9 +7,9 @@ export const cvData: CVData = {
   profileImage: "https://github.com/SeungPyo-Jeon/SeungPyo-Jeon.github.io/blob/main/assets/profile3.png?raw=true", // 교체 방법: 이 부분을 실제 이미지 URL이나 public 폴더 내의 경로(예: "assets/profile.jpg")로 변경하세요.
   summary: [
     "Hello, I'm SeungPyo.",
-    "I am a senior undergraduate student at SeoulTech, majoring in Artificial Intelligence Applications.",
-    "My passion lies in Computer Vision, with a particular focus on bridging the gap",
-    "between digital perception and the physical world through SLAM, 3D Reconstruction, VLA, and Physical AI."
+    "I am a senior undergraduate student at **SeoulTech**, majoring in **Artificial Intelligence Applications**.",
+    "My passion lies in **Computer Vision**, with a particular focus on bridging the gap",
+    "between digital perception and the physical world through **SLAM**, **3D Reconstruction**, **VLA**, and **Physical AI**."
   ],
   contact: {
     email: "tmdvy1468+lab@gmail.com",
