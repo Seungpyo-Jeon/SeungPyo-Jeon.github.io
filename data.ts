@@ -54,7 +54,7 @@ export const cvData: CVData = {
       period: "2024.06 – 2024.09",
       description: [
         "ICT 대중교통연구실 (ICT Public Transportation Research Lab)",
-        "열차 내 혼잡도 계산을 위한 승객 인식 모델 개발 참여 (Developed vision-based passenger recognition models for public transit)"
+        "열차 내 혼잡도 계산을 위한 승객 인식 모델 개발 참여\n(Developed vision-based passenger recognition models for public transit)"
       ]
     }
   ],
