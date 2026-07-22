@@ -9,7 +9,6 @@ interface ProjectCardProps {
 const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
   return (
     <div className="group mb-4 bg-white p-6 rounded-lg border border-slate-200 hover:border-slate-300 hover:shadow-md transition-all duration-300">
-      <a href={project.links[0]}>
       <div className="flex justify-between items-start mb-3">
         <div className="flex-1 pr-2"> {/* 링크 버튼 공간 확보를 위해 pr-4 추가 */}
           <h3 className="text-xl font-bold text-slate-900 tracking-tight group-hover:text-slate-700 transition-colors">
@@ -70,7 +69,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project }) => {
           />
         </div>
       )}
-      </a>
     </div>
   );
 };
