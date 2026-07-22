@@ -109,7 +109,7 @@ export const cvData: CVData = {
       imageUrl: "https://github.com/SeungPyo-Jeon/CapstoneDesign-ForestCarbonAi/blob/main/DemoPage/workflow_revision.png?raw=true" 
     },
     {
-      title: "DEVS Simulation For Efficient Operation",
+      title: "DEVS-Based Simulation of Multi-Elevator Systems for Efficient Operation",
       description: "실제 엘레베이터 운영 데이터를 구할 수 없는 상황 속 가장 효율적인 운영 알고리즘 탐색을 목표로 합니다. 확장 가능한 DEVS 시뮬레이션을 이용해 최적의 알고리즘을 찾습니다. \n Developed a DEVS-based simulation framework to explore optimal dispatching algorithms in environments with limited real-world operational data.",
       techStack: ["Python", "DEVS", "M&S"],
       links: [
