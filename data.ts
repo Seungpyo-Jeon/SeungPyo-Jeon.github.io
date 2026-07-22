@@ -1,6 +1,6 @@
 import { CVData } from './types';
 
-export const cvData: CVData = {
+export const cvData: CVData = { 
   name: "SeungPyo Jeon",
   koreanName: "전승표",
   title: "Undergraduate Researcher in Computer Vision",
