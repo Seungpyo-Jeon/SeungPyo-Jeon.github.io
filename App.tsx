@@ -104,7 +104,7 @@ const App: React.FC = () => {
               {/* Summary - Desktop Version (Next to image) */}
               <div className="hidden md:block prose prose-slate max-w-none text-slate-700 leading-snug mt-6">
                 {cvData.summary.map((paragraph, idx) => (
-                  <p key={idx} className="mb-1" dangerouslySetInnerHTML={{ 
+                  <p key={idx} className="mb-1 whitespace-pre-line" dangerouslySetInnerHTML={{ 
                     __html: paragraph.replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-slate-900">$1</strong>') 
                   }} />
                 ))}
@@ -129,7 +129,7 @@ const App: React.FC = () => {
           {/* Summary - Mobile Version (Full Width below Header/Image) */}
           <div className="md:hidden prose prose-slate max-w-none text-slate-700 leading-snug mt-6">
             {cvData.summary.map((paragraph, idx) => (
-              <p key={idx} className="mb-1" dangerouslySetInnerHTML={{ 
+              <p key={idx} className="mb-1 whitespace-pre-line" dangerouslySetInnerHTML={{ 
                 __html: paragraph.replace(/\*\*(.*?)\*\*/g, '<strong class="font-semibold text-slate-900">$1</strong>') 
               }} />
             ))}
