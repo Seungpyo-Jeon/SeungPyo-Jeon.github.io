@@ -9,7 +9,7 @@ export const cvData: CVData = {
     "안녕하세요, **전승표**입니다!",
     "현재 **서울과학기술대학교 국방인공지능응용학과 석사** 재학 중이며, \n**MINT Lab**에서 **최성록 교수님**의 지도 아래 연구하고 있습니다.",
     "관심 분야는 **Computer Vision**, 특히 **3D Reconstruction, SLAM, Autonomous Systems, VLA, Physical AI**입니다.",
-    "Digital perception과 physical world 사이의 간극을 연결하는 Spatial Intelligence를 위해 \n실제 환경에서 robust하게 동작하는 perception and intelligence system을 연구하고 있습니다.",
+    "Digital perception과 physical world 사이의 간극을 연결하는 Spatial Intelligence를 위해 \n실제 환경에서 강건히 동작하는 perception&intelligence system을 연구하고 있습니다.",
     "Hello, I'm SeungPyo Jeon, a graduate student at Seoul National University of Science and Technology (SeoulTech) and a member of MINT Lab.",
     "My research interests lie in Computer Vision, particularly 3D Reconstruction, SLAM, Autonomous Systems, VLA, and Physical AI.",
     "I am especially interested in bridging the gap between digital perception and the physical world, with the goal of building robust spatial intelligence systems for real-world environments."
