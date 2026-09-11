@@ -11,7 +11,7 @@ export const cvData: CVData = {
     "관심 분야는 **Computer Vision**, 특히 **3D Reconstruction, SLAM, Autonomous Systems, VLA, Physical AI**입니다.",
     "Digital perception과 physical world 사이 간극을 연결하는 **Spatial Intelligence**를 위해\n **실제 환경에서 강건히 동작하는 Perception&Intelligence system**을 연구하고 있습니다.",
     " ················································ ",
-    "Hello, I'm **SeungPyo Jeon**, a **graduate student** \nat **Seoul National University of Science and Technology (SeoulTech)** \nand a member of [**MINT Lab**](https://mint-lab.github.io/), advised by [**Prof. Sunglok Choi**](https://mint-lab.github.io/sunglok/)",
+    "Hello, I'm **SeungPyo Jeon**, a **graduate student** \nat **Seoul National University of Science and Technology (SeoulTech)** \nand a member of [**MINT Lab**](https://mint-lab.github.io/), advised by [**Prof. Sunglok Choi**](https://mint-lab.github.io/sunglok/).",
     "My research interests lie in **Computer Vision**, particularly **3D Reconstruction, SLAM, Autonomous Systems, VLA, and Physical AI**.",
     "I am especially interested in **bridging the gap between digital perception and the physical world**, with the goal of building **robust spatial intelligence systems** for real-world environments."
   ],
