@@ -3,7 +3,7 @@ import { CVData } from './types';
 export const cvData: CVData = {
   name: "SeungPyo Jeon",
   koreanName: "전승표",
-  title: "Undergraduate Researcher in Computer Vision",
+  title: "Graduate Researcher in Computer Vision",
   profileImage: "https://github.com/SeungPyo-Jeon/SeungPyo-Jeon.github.io/blob/main/assets/profile3.png?raw=true", // 교체 방법: 이 부분을 실제 이미지 URL이나 public 폴더 내의 경로(예: "assets/profile.jpg")로 변경하세요.
   summary: [
     "안녕하세요, **전승표**입니다!",
