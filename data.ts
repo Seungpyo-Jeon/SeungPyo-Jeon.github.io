@@ -6,13 +6,14 @@ export const cvData: CVData = {
   title: "Undergraduate Researcher in Computer Vision",
   profileImage: "https://github.com/SeungPyo-Jeon/SeungPyo-Jeon.github.io/blob/main/assets/profile3.png?raw=true", // 교체 방법: 이 부분을 실제 이미지 URL이나 public 폴더 내의 경로(예: "assets/profile.jpg")로 변경하세요.
   summary: [
-    "안녕하세요, 전승표입니다!",
-    "제 관심 분야는 **Computer Vision**, 특히 **3D Reconstruction, SLAM, 자율주행, Physical AI**입니다.",
-    "한번 집중하기 시작하면 끝까지 포기치 않고 파고들어, 복잡하고 도전적인 연구/개발에 기여하고 싶습니다.",
-    "현재 **서울과학기술대학교 국방인공지능응용학과 석사 1학기 재학** 중입니다.",
-    "Hello, I'm SeungPyo.",
-    "I am a senior undergraduate student at SeoulTech, majoring in Artificial Intelligence Applications.",
-    "My passion lies in Computer Vision, with a particular focus on bridging the gap between digital perception and the physical world through SLAM, 3D Reconstruction, VLA, and Physical AI.",
+    "안녕하세요, 전승표입니다.",
+    "현재 서울과학기술대학교 국방인공지능응용학과 석사과정에 재학 중이며, MINT Lab에서 최성록 교수님의 지도 아래 연구하고 있습니다.",
+    "제 관심 분야는 Computer Vision을 중심으로 한 3D Reconstruction, SLAM, Autonomous Systems, VLA, Physical AI입니다.",
+    "특히 digital perception과 physical world 사이의 간극을 연결하는 Spatial Intelligence에 관심이 있으며,",
+    "실제 환경에서 robust하게 동작하는 perception and intelligence system을 연구하고 있습니다.",
+    "Hello, I'm SeungPyo Jeon, a graduate student at Seoul National University of Science and Technology (SeoulTech) and a member of MINT Lab.",
+    "My research interests lie in Computer Vision, particularly 3D Reconstruction, SLAM, Autonomous Systems, VLA, and Physical AI.",
+    "I am especially interested in bridging the gap between digital perception and the physical world, with the goal of building robust spatial intelligence systems for real-world environments."
   ],
   contact: {
     email: "tmdvy1468+lab@gmail.com",
@@ -22,7 +23,7 @@ export const cvData: CVData = {
   education: [
     {
       school: "Seoul National University of Science and Technology",
-      degree: "M.S. in Defense Artificial Intelligence Applications",
+      degree: "M.S. in Defense Artificial Intelligence Applications | [MINT Lab](https://mint-lab.github.io/), advised by Prof. Sunglok Choi",
       location: "Seoul, Korea",
       period: "2026.09 – Present",
       details: ["GPA: -"]
