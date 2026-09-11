@@ -9,7 +9,7 @@ export const cvData: CVData = {
     "안녕하세요, 전승표입니다!",
     "제 관심 분야는 **Computer Vision**, 특히 **3D Reconstruction, SLAM, 자율주행, Physical AI**입니다.",
     "한번 집중하기 시작하면 끝까지 포기치 않고 파고들어, 복잡하고 도전적인 연구/개발에 기여하고 싶습니다.",
-    "현재 **서울과학기술대학교 인공지능응용학과 4학년 재학** 중입니다.",
+    "현재 **서울과학기술대학교 국방인공지능응용학과 석사 1학기 재학** 중입니다.",
     "Hello, I'm SeungPyo.",
     "I am a senior undergraduate student at SeoulTech, majoring in Artificial Intelligence Applications.",
     "My passion lies in Computer Vision, with a particular focus on bridging the gap between digital perception and the physical world through SLAM, 3D Reconstruction, VLA, and Physical AI.",
@@ -22,10 +22,17 @@ export const cvData: CVData = {
   education: [
     {
       school: "Seoul National University of Science and Technology",
+      degree: "M.S. in Defense Artificial Intelligence Applications",
+      location: "Seoul, Korea",
+      period: "2026.09 – Present",
+      details: ["GPA: -"]
+    },
+    {
+      school: "Seoul National University of Science and Technology",
       degree: "B.S. in Artificial Intelligence Applications",
       location: "Seoul, Korea",
-      period: "2024.03 – Present",
-      details: ["GPA: 3.98 / 4.5 (4학년 2학기)"]
+      period: "2024.03 – 2026.08",
+      details: ["GPA: 3.98 / 4.5"]
     },
     {
       school: "University of Nevada, Las Vegas",
