@@ -6,8 +6,9 @@ export const cvData: CVData = {
   title: "Undergraduate Researcher in Computer Vision",
   profileImage: "https://github.com/SeungPyo-Jeon/SeungPyo-Jeon.github.io/blob/main/assets/profile3.png?raw=true", // 교체 방법: 이 부분을 실제 이미지 URL이나 public 폴더 내의 경로(예: "assets/profile.jpg")로 변경하세요.
   summary: [
-    "안녕하세요, 전승표입니다.",
-    "현재 서울과학기술대학교 국방인공지능응용학과 석사과정에 재학 중이며, MINT Lab에서 최성록 교수님의 지도 아래 연구하고 있습니다.",
+    "안녕하세요, **전승표**입니다!",
+    "현재 **서울과학기술대학교 국방인공지능응용학과 석사** 재학 중이며, \
+    **MINT Lab**에서 **최성록 교수님**의 지도 아래 연구하고 있습니다.",
     "제 관심 분야는 Computer Vision을 중심으로 한 3D Reconstruction, SLAM, Autonomous Systems, VLA, Physical AI입니다.",
     "특히 digital perception과 physical world 사이의 간극을 연결하는 Spatial Intelligence에 관심이 있으며,",
     "실제 환경에서 robust하게 동작하는 perception and intelligence system을 연구하고 있습니다.",
